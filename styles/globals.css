@@ -1,0 +1,18 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+    body {
+        @apply bg-[#eee] text-gray-300;
+    }
+    .colo {
+        background: red;
+    }
+} */
+
+body {
+    color: rgba(245, 245, 245, 0.924);
+    background-color: #06202A;
+}
